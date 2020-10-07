@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" />
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/ohub/generation-test-files" value="PREVIEW" />
+        <entry key="C:/recruiting" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\roderik-von.maltzahn\AppData\Roaming\Subversion</configuration>
+  </component>
+</project>
